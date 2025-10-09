@@ -6,13 +6,13 @@ I'm a **Software Engineering** graduate from the **University of Greenwich**, pa
 
 ## 🌟 Featured Projects
 
-### [GrowAhead - Micro-Investment Tracker](https://github.com/https://github.com/BhaveshNank/GrowAhead)
+### [GrowAhead - Micro-Investment Tracker](https://github.com/BhaveshNank/GrowAhead)
 🚀 A full-stack fintech educational platform that simulates micro-investing through automated round-up calculations and portfolio projections. Learn investment concepts by converting daily transactions into virtual investments with interactive analytics dashboards.
 - **Tech Stack**: Next.js 15, TypeScript, TailwindCSS, Node.js, Express, PostgreSQL, JWT, Recharts
 - **DevOps**: GitHub Actions CI/CD, Vercel, Render, AWS Elastic Beanstalk
 - **Live Demo**: [growahead-beta.vercel.app](https://growahead-beta.vercel.app)
 
-### [Vision Electronics](https://github.com/https://github.com/BhaveshNank/VisionTech)
+### [Vision Electronics](https://github.com/BhaveshNank/VisionTech)
 💡 AI-powered e-commerce platform for electronics featuring an intelligent chatbot assistant powered by Google Gemini API. Provides personalized product recommendations, real-time chat support, and seamless shopping experience.
 - **Tech Stack**: React.js, Flask, Python, MongoDB Atlas, Google Gemini API, Styled Components
 - **Key Features**: AI Chatbot, Advanced Search & Filtering, Shopping Cart System, Responsive Design
