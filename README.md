@@ -12,11 +12,11 @@ I'm a **Software Engineering** graduate from the **University of Greenwich**, pa
 - **DevOps**: GitHub Actions CI/CD, Vercel, Render, AWS Elastic Beanstalk
 - **Live Demo**: [growahead-beta.vercel.app](https://growahead-beta.vercel.app)
 
-### [VisionTech](https://github.com/BhaveshNank/VisionTech)
+### [VisionTech](https://github.com/BhaveshNank/VisionTech-v2)
 💡 AI-powered e-commerce platform for electronics featuring an intelligent chatbot assistant powered by Google Gemini API. Provides personalized product recommendations, real-time chat support, and seamless shopping experience.
 - **Tech Stack**: React.js, Flask, Python, MongoDB Atlas, Google Gemini API, Styled Components
 - **Key Features**: AI Chatbot, Advanced Search & Filtering, Shopping Cart System, Responsive Design
-- **Live Demo**: [vision-tech-beta.vercel.app](https://vision-tech-beta.vercel.app)
+- **Live Demo**: [vision-tech-v2.vercel.app](https://vision-tech-v2.vercel.app)
 
 ## 🚀 Tech Stack
 
