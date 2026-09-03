@@ -8,7 +8,7 @@ I'm a **Software Engineering** graduate from the **University of Greenwich**, pa
 
 ## [Transaction Intelligence](https://github.com/BhaveshNank/Transaction-Intelligence)
 
-🐍 A Python backend service that ingests bank transaction CSVs, categorizes spending using a rule-based engine, and exposes REST endpoints for filtering, analytics, and report generation — with JWT auth and per-user data isolation throughout.
+🐍 A Python backend service that ingests bank transaction CSVs, categorizes spending using a rule-based engine, and exposes REST endpoints for filtering, analytics, and report generation, with JWT auth and per-user data isolation throughout.
 
 - **Tech Stack**: FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pydantic, pytest, Docker
 - **DevOps**: GitHub Actions CI/CD, Render, Neon, Vercel
