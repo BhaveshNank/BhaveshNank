@@ -12,7 +12,7 @@ I'm a **Software Engineering** graduate from the **University of Greenwich**, pa
 
 - **Tech Stack**: FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pydantic, pytest, Docker
 - **DevOps**: GitHub Actions CI/CD, Render, Neon, Vercel
-- **Live Demo**: https://transaction-intelligence-two.vercel.app
+- **Live Demo**: [transaction-intelligence-two.vercel.app](https://transaction-intelligence-two.vercel.app)
 
 ### [GrowAhead - Micro-Investment Tracker](https://github.com/BhaveshNank/GrowAhead)
 🚀 A full-stack fintech educational platform that simulates micro-investing through automated round-up calculations and portfolio projections. Learn investment concepts by converting daily transactions into virtual investments with interactive analytics dashboards.
