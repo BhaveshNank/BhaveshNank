@@ -6,6 +6,14 @@ I'm a **Software Engineering** graduate from the **University of Greenwich**, pa
 
 ## 🌟 Featured Projects
 
+## [Transaction Intelligence](https://github.com/BhaveshNank/Transaction-Intelligence)
+
+🐍 A Python backend service that ingests bank transaction CSVs, categorizes spending using a rule-based engine, and exposes REST endpoints for filtering, analytics, and report generation — with JWT auth and per-user data isolation throughout.
+
+- **Tech Stack**: FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pydantic, pytest, Docker
+- **DevOps**: GitHub Actions CI/CD, Render, Neon, Vercel
+- **Live Demo**: https://transaction-intelligence-two.vercel.app
+
 ### [GrowAhead - Micro-Investment Tracker](https://github.com/BhaveshNank/GrowAhead)
 🚀 A full-stack fintech educational platform that simulates micro-investing through automated round-up calculations and portfolio projections. Learn investment concepts by converting daily transactions into virtual investments with interactive analytics dashboards.
 - **Tech Stack**: Next.js 15, TypeScript, TailwindCSS, Node.js, Express, PostgreSQL, JWT, Recharts
